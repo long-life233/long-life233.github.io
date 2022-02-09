@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as e,a as p}from"./app.e3ae1ebd.js";const f='{"title":"talk-show","description":"","frontmatter":{},"headers":[],"relativePath":"other/article/2022.1.22-my-talk-show.md","lastUpdated":1643348604468}',o={},s=p("",12),_=[s];function r(c,d,h,l,n,i){return e(),t("div",null,_)}var w=a(o,[["render",r]]);export{f as __pageData,w as default};
