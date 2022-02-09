@@ -1,1 +1,0 @@
-import{_ as p,c as e,o as a,a as t}from"./app.c5e95c79.js";const m='{"title":"\u79BB\u5F00\u5979","description":"","frontmatter":{},"headers":[],"relativePath":"other/article/2022.1.26-i-decide-leave-she.md","lastUpdated":1643348489520}',_={},r=t("",22),c=[r];function s(o,d,i,n,h,l){return a(),e("div",null,c)}var u=p(_,[["render",s]]);export{m as __pageData,u as default};
