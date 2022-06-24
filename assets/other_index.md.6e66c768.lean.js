@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,a as e}from"./app.df94a100.js";const m='{"title":"\u4ECB\u7ECD","description":"","frontmatter":{},"headers":[],"relativePath":"other/index.md","lastUpdated":1650873171018}',l={},p=e("",4),r=[p];function i(c,o,t,d,_,b){return n(),a("div",null,r)}var A=s(l,[["render",i]]);export{m as __pageData,A as default};

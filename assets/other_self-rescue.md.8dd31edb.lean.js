@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as i,a}from"./app.ab92e4a2.js";const u='{"title":"\u81EA\u6551","description":"","frontmatter":{},"headers":[],"relativePath":"other/self-rescue.md","lastUpdated":1650873171019}',l={},_=a("",6),r=[_];function s(o,c,p,n,d,h){return i(),t("div",null,r)}var m=e(l,[["render",s]]);export{u as __pageData,m as default};
