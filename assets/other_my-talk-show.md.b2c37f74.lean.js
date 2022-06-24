@@ -1,1 +1,0 @@
-import{_ as t,c as a,o as e,a as p}from"./app.331132bd.js";const f='{"title":"talk-show","description":"","frontmatter":{},"headers":[],"relativePath":"other/my-talk-show.md","lastUpdated":1650873171007}',o={},s=p("",12),r=[s];function _(c,h,n,d,l,i){return e(),a("div",null,r)}var m=t(o,[["render",_]]);export{f as __pageData,m as default};

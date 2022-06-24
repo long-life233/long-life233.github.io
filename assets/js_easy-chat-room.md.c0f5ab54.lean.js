@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as l}from"./app.ab92e4a2.js";const C='{"title":"Easy Chat Room","description":"","frontmatter":{},"headers":[],"relativePath":"js/easy-chat-room.md","lastUpdated":1656043405479}',p={},o=l("",5),e=[o];function t(r,c,F,D,y,A){return a(),n("div",null,e)}var b=s(p,[["render",t]]);export{C as __pageData,b as default};

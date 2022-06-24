@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,a as p}from"./app.ab92e4a2.js";const m='{"title":"\u5982\u4F55\u4E0D\u81EA\u5351","description":"","frontmatter":{},"headers":[],"relativePath":"other/how-not-self-pity.md","lastUpdated":1656043405485}',o={},_=p("",10),r=[_];function s(c,n,d,i,h,l){return a(),e("div",null,r)}var u=t(o,[["render",s]]);export{m as __pageData,u as default};
