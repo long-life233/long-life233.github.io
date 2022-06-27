@@ -1,1 +1,0 @@
-import{_ as t,o as a,c as e,a as p}from"./app.df94a100.js";const f='{"title":"talk-show","description":"","frontmatter":{},"headers":[],"relativePath":"other/my-talk-show.md","lastUpdated":1656043405493}',o={},s=p("",12),r=[s];function _(c,h,n,d,l,i){return a(),e("div",null,r)}var m=t(o,[["render",_]]);export{f as __pageData,m as default};

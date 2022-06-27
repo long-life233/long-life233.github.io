@@ -1,0 +1,1 @@
+import{_ as p,o as e,c as t,a}from"./app.1facd491.js";const m='{"title":"\u79BB\u5F00\u5979","description":"","frontmatter":{},"headers":[],"relativePath":"other/i-decide-leave-she.md","lastUpdated":1656087808125}',_={},r=a("",22),o=[r];function s(c,d,i,n,h,l){return e(),t("div",null,o)}var u=p(_,[["render",s]]);export{m as __pageData,u as default};

@@ -1,1 +1,0 @@
-import{_ as a,o as t,c as e}from"./app.df94a100.js";const l='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"java/article/day-9-class-and-annotation.md","lastUpdated":1650873170943}',n={};function o(r,s,c,d,i,p){return t(),e("div")}var f=a(n,[["render",o]]);export{l as __pageData,f as default};

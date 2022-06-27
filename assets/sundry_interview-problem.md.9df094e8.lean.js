@@ -1,1 +1,0 @@
-import{_ as s,o as n,c as a,a as p}from"./app.df94a100.js";const m='{"title":"\u9762\u8BD5\u95EE\u9898","description":"","frontmatter":{},"headers":[],"relativePath":"sundry/interview-problem.md","lastUpdated":1656048726118}',l={},e=p("",2),r=[e];function c(i,o,t,b,u,A){return n(),a("div",null,r)}var d=s(l,[["render",c]]);export{m as __pageData,d as default};

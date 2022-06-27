@@ -1,1 +1,0 @@
-import{_ as s,o as n,c as a,a as l}from"./app.df94a100.js";const A='{"title":"uniapp\u5B9E\u73B0\u4E0B\u62C9\u5237\u65B0","description":"","frontmatter":{},"headers":[],"relativePath":"vue/uniapp-pull-refresh.md","lastUpdated":1656043405548}',p={},o=l("",2),e=[o];function t(c,r,F,D,y,C){return n(),a("div",null,e)}var b=s(p,[["render",t]]);export{A as __pageData,b as default};
